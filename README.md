@@ -3,6 +3,7 @@
 本仓库整理了 **ChatGPT 镜像站、ClaudeCode 镜像、Augment 续杯** 的详细使用指南，支持 GPT-5、Claude 4、Deepseek、Gemini、Grok 等大模型。解决 ChatGPT Plus 购买难题，支持文件上传、图片识别、代码解释等功能，无需科学上网即可使用。价格更便宜，体验与官网一致，是学习、开发、科研和日常使用的最佳方案。
 
 ## 1. ClaudeCode 镜像站
+![Claudecode演示](images/claude.png)
 
 **ClaudeCode 镜像**是为开发者和代码工作者打造的镜像方案，支持 **Claude 系列大模型** 的全部功能：  
 - 无缝编程对话  
@@ -19,7 +20,7 @@
 ---
 
 ## 2. Augment 续杯
-
+![Augmentcode插件演示](images/aug.png)
 **Augment 续杯** 是针对 **无法绑卡的用户** 的需求，核心卖点是：  
 - **自动续杯**：即使账号到期，也能无缝切换到新账号  
 - **无限制体验**：每天一百次使用次数  
@@ -30,6 +31,7 @@
 ---
 
 ## 3. ChatGPT 镜像站
+![ChatGPT 镜像站演示](images/gpt.png)
 
 ChatGPT 镜像站是目前最受欢迎的方式之一，具备以下特征：  
 - **无需科学上网**：直接访问即可使用  

@@ -15,7 +15,7 @@
 - 登录即用，无需额外配置  
 - 体验与官网一致，Claude 在 IDE 和大文档场景下优势明显  
 
-详细使用教程可参考：[ClaudeCode 镜像指南](https://blog.ai4.plus/posts/2025/claude-code-mirror-guide-cn/)
+详细使用教程可参考：[ClaudeCode 镜像指南](https://blog.ai4.plus/posts/2025/claude-code-jingxiang/)
 
 ---
 
